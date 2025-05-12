@@ -94,6 +94,8 @@ There are lots of ways to contribute:
 
 - Follow our CODE_OF_CONDUCT.md
 
+- By contributing, you agree that your art will be licensed under the [CC BY-SA 4.0 License](LICENSE)
+
 ## Community & Support
 Need help? Got a cool idea? Join the community:
 

@@ -92,7 +92,7 @@ There are lots of ways to contribute:
 
 - Please make sure whatever you are creating concept art for is confirmed for the game in [worldbuilding](https://github.com/Veil-of-Aether/worldbuilding)
 
-- Follow our CODE_OF_CONDUCT.md
+- Follow our [Code of Conduct](CODE_OF_CONDUCT.md)
 
 - By contributing, you agree that your art will be licensed under the [CC BY-SA 4.0 License](LICENSE)
 

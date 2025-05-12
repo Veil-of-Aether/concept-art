@@ -23,6 +23,8 @@ This isn't just a game—it's a statement.
 
 Join us. Build with us. Shape the world.
 
+## License
+The files here are licensed under the [Creative Commons Attribution ShareAlike 4.0 License](LICENSE). Please adhere to the guidlines outlined here when modifying or redistributing the art.
 
 ## How you can help
 

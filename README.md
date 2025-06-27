@@ -28,77 +28,25 @@ The files here are licensed under the [Creative Commons Attribution ShareAlike 4
 
 ## How you can help
 
-This project is powered by passion, free software, and community contributions — and there are many ways *you* can be part of it:
+This project is powered by the community and motivated by passion. Here are some ways that you can be a part of it:
 
-- 📝 Give Feedback  
-Got an idea to improve the game? Found a bug? Head over to our Git repo's [issues page](https://github.com/Veil-of-Aether/game-core/issues) to file it. We monitor it regularly and appreciate all input!
+- Give Feedback  
+If you find a bug or inconsistency, or simply have a suggestion for a feature, please visit the [issues page](https://github.com/Veil-of-Aether/concept-art/issues). Do a search and see if anyone else has opened a similar issue. If not, feel free to open your own.
 
-- 🛠️ Contribute Code or Assets  
-Developers, artists, and audio wizards — your skills are welcome! Fork the repo, make your improvements, and send a pull request. We'll review and credit all contributors properly.
+- Contribute  Assets  
+If you can create or edit art, you can help! We greatly appreciate any contributions you can make. For more information on this, please join our [Revolt server](https://rvlt.gg/xa5z1G8d) or contact a maintainer.
 
-- 💸 Support Development  
-If you believe in what we're building, you can help cover server costs and support the tools we rely on through donations. A portion goes to upstream projects like Godot, Disroot, and Revolt.
+- Support Development  
+If this project stands out to you but you don't know how else to help, you can always support us monetarily. We greatly appreciate donations to help cover our costs. Please contact a maintainer for more details. We plan to have an Open Collective page soon, but that is still being worked on.
 
-- 📣 Spread the Word  
-Tell your friends, boost us on the Fediverse, share the repo — anything helps! The more people we reach, the more awesome contributors and players we'll find.
-
-Please see [Contributuing](#contributing) for more information.
-
-Together, we can show that great games don't need ads, tracking, DRM, or a corporate logo.
+- Spread the Word  
+Even if you can't help in any of the above ways, one of the best ways to contribute is to simply spread the word. Make a post on the FediVerse or just tell your friends about the game. This is a great way to bring in more players and contributors.
 
 ## Contributing
 
-First off, thanks for your interest in The Veil of Aether! Whether you're here to squash bugs, write dialogue, suggest features, or just share wild theories—we appreciate you.
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how you can contribute to the project.
 
-### Ways You Can Help
-There are lots of ways to contribute:
-
-- Report bugs: Found a glitch in the matrix (or the Wind Temple)? Open an issue.
-- Suggest features: Got an idea for a sidequest, spell, or secret area? Drop it in the Discussions or open a proposal.
-- Submit art: Artists are welcome! Check out [worldbuilding](https://github.com/Veil-of-Aether/worldbuilding) to check what might need concept art
-- Spread the word: Share the project, join our Revolt server, or post about it in the Fediverse!
-
-### How to Contribute
-- Preferred Method: Fork & Upload
-  1. Create a GitHub account (if you don't already have one)
-
-  2. Fork the concept art repo (top right corner).
-
-  3. Go to your forked version and click "Add file" → "Upload files".
-
-  4. Upload your art into the appropriate folder (e.g., Characters/, Locations/, Creatures/).
-
-  5. At the bottom of the page, write a commit message
-
-  6. Click "Commit changes".
-
-  7. Then go back to the main repo and click "Contribute" and then "Open pull request" to submit your art
-
-- Alternative Method: Submit Art to Admins
-
-  Not comfortable with GitHub? No problem! You can:
-
-  - Email your artwork to the project team
-
-  - DM us on Revolt or another official community space
-
-  Include a title and a short description (who/what is it? anything we should know?)
-
-  We’ll upload the piece for you and credit you properly in the repo and game documentation.
-
-
-### Guidelines
-- Keep images appropriate. No NSFW or otherwise innapropriate content.
-
-- Be respectful. This is a chill space for creators and players alike.
-
-- Please make sure whatever you are creating concept art for is confirmed for the game in [worldbuilding](https://github.com/Veil-of-Aether/worldbuilding)
-
-- Follow our [Code of Conduct](CODE_OF_CONDUCT.md)
-
-- By contributing, you agree that your art will be licensed under the [CC BY-SA 4.0 License](LICENSE)
-
-## Community & Support
+## Community]
 Need help? Got a cool idea? Join the community:
 
 - Revolt Server: https://rvlt.gg/xa5z1G8d

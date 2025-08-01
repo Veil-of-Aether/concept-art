@@ -43,7 +43,7 @@ Need help? Got a cool idea? Join the community:
 
 - Revolt Server: https://rvlt.gg/xa5z1G8d
 
-- The Matrix: https://matrix.to/#/%23veil-of-aether:matrix.org
+- The Matrix: https://matrix.to/#/#veil-of-aether:matrix.org
 
 - Mastodon: https://mastodon.social/@veilofaether
 
